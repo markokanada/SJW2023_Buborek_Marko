@@ -96,3 +96,7 @@ h1{
   .container{
     height: 80vh !important;
   }
+
+  .button{
+    width: 100%;
+  }
